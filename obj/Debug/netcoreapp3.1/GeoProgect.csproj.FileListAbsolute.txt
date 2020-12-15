@@ -1,0 +1,15 @@
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\bin\Debug\netcoreapp3.1\GeoProgect.exe
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\bin\Debug\netcoreapp3.1\GeoProgect.deps.json
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\bin\Debug\netcoreapp3.1\GeoProgect.runtimeconfig.json
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\bin\Debug\netcoreapp3.1\GeoProgect.runtimeconfig.dev.json
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\bin\Debug\netcoreapp3.1\GeoProgect.dll
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\bin\Debug\netcoreapp3.1\GeoProgect.pdb
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\obj\Debug\netcoreapp3.1\GeoProgect.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\obj\Debug\netcoreapp3.1\GeoProgect.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\obj\Debug\netcoreapp3.1\GeoProgect.dll
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\obj\Debug\netcoreapp3.1\GeoProgect.pdb
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\obj\Debug\netcoreapp3.1\GeoProgect.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\obj\Debug\netcoreapp3.1\GeoProgect.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\obj\Debug\netcoreapp3.1\GeoProgect.csproj.CopyComplete
+C:\Users\Andrey\source\repos\GeoProgect\GeoProgect\obj\Debug\netcoreapp3.1\GeoProgect.csprojAssemblyReference.cache

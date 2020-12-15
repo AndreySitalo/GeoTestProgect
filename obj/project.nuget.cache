@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eR3TrEP8LpvDUSHYz7R7OFk8DxpopX6D4mbtraDkh7in+0DG6/BevvkjUxS98EpOPxv9LLLVtWXRpaxo8iSw8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrey\\source\\repos\\GeoProgect\\GeoProgect\\GeoProgect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrey\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
